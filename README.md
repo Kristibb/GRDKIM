@@ -1,2 +1,2 @@
 # GRDKIM
-<head><b>How are you doing?</b></head>
+<head><b><center>How are you doing?</center></b></head>
